@@ -1,0 +1,46 @@
+
+
+    body{
+max-width:1024px ;
+margin: auto;
+    background-image: linear-gradient(to right, #00F490  , #00BBC9);
+    background-size: cover;
+
+
+}
+.disp{
+    font-family: 'Open Sans', sans-serif;
+
+     color: white;
+    
+}
+.lead{
+color: white;
+}
+.jumbotron{
+    background-image: linear-gradient(#00F490 , #00BBC9);
+}
+
+.btn{
+    background-color: white;
+}
+.btn:hover{
+    border-color:white;
+}
+.google{
+    margin-right: 50px;
+}
+
+
+.google1{
+    border: 1px solid white;
+}
+.box10{
+    background-color: white;
+}
+.box18 img{
+    border-radius: 40px 0 0 40px;
+}
+.box10{
+    border-radius: 0 40px  40px 0;
+}
